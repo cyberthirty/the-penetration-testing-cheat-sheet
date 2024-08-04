@@ -17,7 +17,7 @@
 
 <h4 align="center">The Table of Content</h4>
 
-- **[Introduction](#doc/README.md)**
+- **[Introduction](doc/README.md)**
 - **[Appendic A]()**
 - **[Appendic B]()**
 - **[Appendic C]()**
